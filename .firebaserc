@@ -1,0 +1,11 @@
+{
+  "projects": {
+    "default": "react-firebase-esp32",
+    "firebase use": "react-firebase-esp32",
+    "firebase use \\": "react-firebase-esp32",
+    "react-firebase-esp32": "react-firebase-esp32",
+    "time-prediction": "react-firebase-esp32"
+  },
+  "targets": {},
+  "etags": {}
+}
